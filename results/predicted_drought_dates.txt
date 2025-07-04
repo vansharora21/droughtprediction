@@ -1,0 +1,11 @@
+Predicted Drought Dates:
+======================
+
+Date: 2025-01-27, Score: 0.753
+Date: 2025-02-24, Score: 0.753
+Date: 2025-03-03, Score: 0.797
+Date: 2025-03-10, Score: 0.886
+Date: 2025-03-17, Score: 1.042
+Date: 2025-03-24, Score: 0.940
+
+Note: Drought is predicted when score >= 0.5
