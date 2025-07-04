@@ -40,7 +40,9 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 3. Run the Jupyter Notebook
+### 3. Run the Jupyter Notebook and data files 
+1. link :(https://drive.google.com/drive/folders/109pV14JQQuApU5euDgHQVJgILwKgqBHL?usp=sharing)  place it in data folder  
+2. link :(https://drive.google.com/file/d/1r3BvjF2v23ad4qlYyd0_eMyoKhXOPrOu/view?usp=sharing)   place it in models folder usdm data file 
 Launch the interactive notebook for exploration and training:
 
 ```bash
