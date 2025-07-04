@@ -101,4 +101,4 @@ Full list in `requirements.txt`.
 
 ## 📬 Contact
 
-Made with 💻 by [Vansh Arora](https://github.com/vansharora21)
+Made with 💻 by [Vansh Arora](https://github.com/vansharora21) and [Somya Upadhyay](https://github.com/Somyaaaaa23)
